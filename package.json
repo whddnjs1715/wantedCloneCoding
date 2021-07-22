@@ -28,7 +28,6 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://github.com/whddnjs1715/wantedCloneCoding.git",
   "browserslist": {
     "production": [
       ">0.2%",
